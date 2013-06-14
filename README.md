@@ -9,6 +9,10 @@ To render markdown, you have to use one of following packages.
 
 These packages were told by Express's error message. Express's version is declared in `package.json`.
 
+## Node.js version
+
+0.10.0
+
 ## TODO
 
 * Use external `*.md` or `*.markdown` files
