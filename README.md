@@ -12,3 +12,7 @@ These packages were told by Express's error message. Express's version is declar
 ## TODO
 
 * Use external `*.md` or `*.markdown` files
+
+## References
+
+* [visionmedia/jade](https://github.com/visionmedia/jade)
