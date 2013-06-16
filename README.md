@@ -17,10 +17,6 @@ This app is [hosted on Heroku](http://ka-nodejs-express-markdown.herokuapp.com).
 
 0.10.0
 
-## TODO
-
-* Use external `*.md` or `*.markdown` files
-
 ## References
 
 * [visionmedia/jade](https://github.com/visionmedia/jade)
