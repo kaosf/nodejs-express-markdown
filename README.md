@@ -1,25 +1,12 @@
 # Node.js Express Markdown
 
-To render markdown, you have to use one of following packages.
-
-* marked (This app uses it!)
-* supermarked
-* markdown-js
-* markdown
-
-These packages were told by Express's error message. Express's version is declared in `package.json`.
+Rendering markdown as HTML with Express. An example for myself.
 
 ## Sample on Heroku
 
-This app is [hosted on Heroku](https://ka-nodejs-express-markdown.herokuapp.com).
+This app is hosted on Heroku.
 
-## Node.js version
-
-13.9.0
-
-## References
-
-* [pugjs/pug](https://github.com/pugjs/pug)
+[https://ka-nodejs-express-markdown.herokuapp.com](https://ka-nodejs-express-markdown.herokuapp.com)
 
 ## License
 
