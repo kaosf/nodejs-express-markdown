@@ -15,7 +15,11 @@ var app = express();
 app.set('port', process.env.PORT || 3000);
 app.set('views', __dirname + '/views');
 app.set('view engine', 'pug');
-app.use(app.router);
+
+app.get(function(req, res){
+  res.render('index', { title: 'Express' });
+});
+
 app.use(express.static(path.join(__dirname, 'public')));
 
 // development only
