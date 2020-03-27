@@ -11,12 +11,18 @@ These packages were told by Express's error message. Express's version is declar
 
 ## Sample on Heroku
 
-This app is [hosted on Heroku](http://ka-nodejs-express-markdown.herokuapp.com).
+This app is [hosted on Heroku](https://ka-nodejs-express-markdown.herokuapp.com).
 
 ## Node.js version
 
-0.10.0
+13.9.0
 
 ## References
 
-* [visionmedia/jade](https://github.com/visionmedia/jade)
+* [pugjs/pug](https://github.com/pugjs/pug)
+
+## License
+
+[![Public Domain](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/ "license")
+
+This work is free of known copyright restrictions.
