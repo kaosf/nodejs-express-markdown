@@ -3,7 +3,7 @@ extends layout
 block content
   h1= title
   p Welcome to #{title}
-  :markdown
+  :markdown-it
     # header 1
 
     paragraph.
@@ -22,4 +22,4 @@ block content
         * item 2-1
         * item 2-2
 
-  include index.md
+  include:markdown-it index.md
