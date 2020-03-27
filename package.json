@@ -6,6 +6,7 @@
     "start": "node app.js"
   },
   "dependencies": {
+    "errorhandler": "^1.5.1",
     "express": "^4.17.1",
     "jstransformer-markdown-it": "^2.1.0",
     "marked": "0.3.18",
