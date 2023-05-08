@@ -2,11 +2,14 @@
 
 Rendering markdown as HTML with Express. An example for myself.
 
-## Sample on Heroku
+## How to run
 
-This app is hosted on Heroku.
+```sh
+npm i
+npm start
+```
 
-[https://ka-nodejs-express-markdown.herokuapp.com](https://ka-nodejs-express-markdown.herokuapp.com)
+See http://localhost:3000/
 
 ## License
 
